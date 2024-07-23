@@ -3,11 +3,9 @@
 - Provision of temporary staffing services to an array of industries is what we specialize in. We fill in temporary gaps in organizations workforce which helps to ensure that there is no disruption to the services the organization renders to their customers.
 - The objective of this project is to develop a web-based program that allows people to sign in and sign out of different events. This program should be able to develop reports based on different criteria like location, date range, time range, events name etc. This program will have different user levels like Admin, Manager, supervisor etc.
 
-# Team
-
-- Aaditya Tamrakar - [Website](https://aadityatamrakar.in) / [Linkedin](https://www.linkedin.com/in/aadityatamrakar/) 
-- Aditya Ambati - n.ambati001@umb.edu
-- Uma Mahesh Aari - umamahesh.aari001@umb.edu
+# Introduction :
+- Aravind Haridas - [Aravind](https://www.linkedin.com/in/haridasaravind/)
+- mail id: aravind.haridas001@umb.edu
 
 ### Supporting Documents: 
 - Final Project [Presentation](https://github.com/Rybenben/Timesheet_project/blob/main/documents/CS682%20Final%20Project%20Presentation.pdf)
